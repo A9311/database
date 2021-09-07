@@ -1,0 +1,13 @@
+input{
+margin: 10px;
+}
+#sumbit_button{
+margin-top: 20px;
+margin-bottom: 20px ;
+}
+
+#sort_button{
+display: none;
+margin-bottom: 20px;
+margin-top: 20px;
+}
